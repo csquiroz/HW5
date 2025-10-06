@@ -1,0 +1,301 @@
+"","Species","Lake","Year","Length_cm","Weight_g","Age_years"
+"1","Whitefish","Erie",2019,71,523,1
+"2","Smallmouth Bass","Superior",2020,10.8,862,7
+"3","Lake Trout","Erie",2017,19,1282,5
+"4","Smallmouth Bass","Ontario",2022,43.4,234,3
+"5","Smallmouth Bass","Michigan",2015,31.3,1416,9
+"6","Yellow Perch","Michigan",2020,43.9,1104,1
+"7","Lake Trout","Michigan",2018,38.9,925,1
+"8","Lake Trout","Superior",2015,24.6,670,1
+"9","Lake Trout","Ontario",2021,59.3,762,3
+"10","Smallmouth Bass","Erie",2023,47,1299,6
+"11","Whitefish","Huron",2018,31.6,936,3
+"12","Lake Trout","Erie",2018,62.6,749,8
+"13","Northern Pike","Huron",2020,32.4,1234,2
+"14","Smallmouth Bass","Erie",2017,21.4,1254,9
+"15","Yellow Perch","Ontario",2020,42.8,375,3
+"16","Whitefish","Huron",2021,45.3,1286,5
+"17","Northern Pike","Superior",2017,48,2251,8
+"18","Northern Pike","Erie",2021,50.4,1235,2
+"19","Yellow Perch","Erie",2017,47.7,150,6
+"20","Whitefish","Huron",2016,47.1,1089,5
+"21","Smallmouth Bass","Superior",2018,31.4,85,9
+"22","Walleye","Superior",2022,29.8,2584,5
+"23","Whitefish","Ontario",2023,51.1,2118,2
+"24","Yellow Perch","Superior",2021,43.7,667,5
+"25","Northern Pike","Superior",2015,52.3,50,4
+"26","Smallmouth Bass","Superior",2017,14.4,561,7
+"27","Whitefish","Michigan",2023,32.5,910,6
+"28","Walleye","Ontario",2015,68.6,119,2
+"29","Walleye","Erie",2023,48.3,965,5
+"30","Lake Trout","Huron",2022,44.4,906,7
+"31","Lake Trout","Erie",2015,50.6,1063,7
+"32","Yellow Perch","Ontario",2020,73.1,1115,5
+"33","Whitefish","Huron",2019,70,517,9
+"34","Whitefish","Ontario",2020,16.3,573,4
+"35","Northern Pike","Superior",2019,21.8,1023,3
+"36","Northern Pike","Huron",2020,15.8,685,4
+"37","Northern Pike","Superior",2019,28.8,1454,5
+"38","Lake Trout","Erie",2019,40.8,1018,6
+"39","Whitefish","Erie",2018,43.6,1933,3
+"40","Whitefish","Huron",2017,17,1410,2
+"41","Walleye","Huron",2017,12,1552,4
+"42","Lake Trout","Ontario",2018,28.5,1066,5
+"43","Smallmouth Bass","Ontario",2023,53.7,1079,4
+"44","Lake Trout","Superior",2016,56.4,1866,3
+"45","Smallmouth Bass","Huron",2023,65.6,811,8
+"46","Walleye","Erie",2015,39.5,1273,4
+"47","Yellow Perch","Ontario",2015,52.4,867,2
+"48","Whitefish","Ontario",2019,55.1,866,2
+"49","Walleye","Erie",2020,32.5,416,1
+"50","Whitefish","Ontario",2020,45.8,629,4
+"51","Northern Pike","Superior",2017,49.9,536,9
+"52","Yellow Perch","Huron",2021,26.4,1297,7
+"53","Yellow Perch","Erie",2023,64.6,1520,7
+"54","Walleye","Huron",2022,39.4,953,7
+"55","Yellow Perch","Ontario",2020,41.3,1115,8
+"56","Smallmouth Bass","Ontario",2022,25.8,924,1
+"57","Yellow Perch","Erie",2019,28.3,595,8
+"58","Whitefish","Superior",2022,7.1,1431,4
+"59","Whitefish","Michigan",2018,40.8,1326,4
+"60","Whitefish","Erie",2022,77.6,54,4
+"61","Whitefish","Michigan",2016,24.7,858,6
+"62","Smallmouth Bass","Michigan",2019,84.6,559,7
+"63","Lake Trout","Superior",2023,61.2,805,6
+"64","Northern Pike","Michigan",2018,32.9,665,1
+"65","Walleye","Michigan",2020,40.4,977,8
+"66","Whitefish","Superior",2015,38,835,7
+"67","Yellow Perch","Michigan",2023,65.6,824,6
+"68","Whitefish","Michigan",2015,47.8,1554,6
+"69","Yellow Perch","Michigan",2019,57.7,1279,5
+"70","Northern Pike","Erie",2018,45.4,648,6
+"71","Northern Pike","Erie",2017,38.3,722,9
+"72","Northern Pike","Erie",2020,44.9,1246,9
+"73","Yellow Perch","Superior",2016,33.9,1245,8
+"74","Whitefish","Ontario",2017,18.2,698,9
+"75","Northern Pike","Michigan",2019,52.2,883,8
+"76","Smallmouth Bass","Michigan",2023,17.5,1923,8
+"77","Yellow Perch","Superior",2016,36,707,1
+"78","Yellow Perch","Michigan",2022,33.4,1955,5
+"79","Whitefish","Erie",2016,49.7,1552,4
+"80","Yellow Perch","Ontario",2019,63.5,1863,2
+"81","Yellow Perch","Huron",2021,58.1,685,8
+"82","Northern Pike","Michigan",2022,50.1,916,3
+"83","Whitefish","Erie",2015,30.6,775,4
+"84","Northern Pike","Huron",2020,37.2,1563,7
+"85","Northern Pike","Ontario",2015,35.1,716,9
+"86","Whitefish","Huron",2016,32.9,1366,2
+"87","Walleye","Erie",2015,34,1339,3
+"88","Northern Pike","Huron",2019,33.6,976,4
+"89","Smallmouth Bass","Superior",2023,32.9,1649,1
+"90","Smallmouth Bass","Huron",2020,54.3,1054,7
+"91","Yellow Perch","Michigan",2015,24.2,1417,2
+"92","Smallmouth Bass","Michigan",2015,29.1,753,5
+"93","Yellow Perch","Superior",2016,16.2,638,1
+"94","Walleye","Erie",2023,61.2,1366,3
+"95","Whitefish","Michigan",2017,28.1,1215,2
+"96","Whitefish","Ontario",2015,49.9,1122,1
+"97","Whitefish","Michigan",2019,47.1,828,7
+"98","Smallmouth Bass","Michigan",2021,59.8,1775,5
+"99","Walleye","Erie",2020,36.8,442,1
+"100","Smallmouth Bass","Huron",2015,25.8,414,6
+"101","Smallmouth Bass","Michigan",2019,16.7,1471,5
+"102","Walleye","Superior",2019,5,1430,3
+"103","Walleye","Huron",2020,42.4,1177,7
+"104","Walleye","Ontario",2017,51.6,856,9
+"105","Walleye","Erie",2019,47.1,1251,9
+"106","Whitefish","Ontario",2021,17.1,1860,9
+"107","Lake Trout","Huron",2019,55.6,2258,2
+"108","Lake Trout","Huron",2019,29.5,172,3
+"109","Walleye","Huron",2019,26.4,791,7
+"110","Lake Trout","Ontario",2017,29.2,759,5
+"111","Lake Trout","Huron",2015,41.2,1813,2
+"112","Walleye","Ontario",2019,17.7,50,3
+"113","Lake Trout","Huron",2023,39.4,1257,6
+"114","Smallmouth Bass","Superior",2015,46.4,872,7
+"115","Yellow Perch","Huron",2017,56.6,1819,9
+"116","Yellow Perch","Ontario",2018,42.6,1751,1
+"117","Walleye","Michigan",2015,19.9,1183,7
+"118","Whitefish","Huron",2015,42.2,210,8
+"119","Walleye","Michigan",2022,24.1,713,3
+"120","Whitefish","Superior",2016,23.2,768,4
+"121","Yellow Perch","Erie",2022,19.6,337,6
+"122","Walleye","Superior",2021,11.3,1577,7
+"123","Northern Pike","Huron",2016,31.5,273,4
+"124","Smallmouth Bass","Michigan",2020,56.9,1983,8
+"125","Lake Trout","Michigan",2020,73.8,1981,5
+"126","Whitefish","Ontario",2017,31.4,807,1
+"127","Northern Pike","Michigan",2016,56.3,1164,4
+"128","Lake Trout","Ontario",2015,34.1,964,3
+"129","Lake Trout","Erie",2020,15.2,1451,9
+"130","Walleye","Huron",2019,50.5,1637,8
+"131","Lake Trout","Ontario",2023,43.5,1129,1
+"132","Smallmouth Bass","Erie",2015,67.3,1235,6
+"133","Northern Pike","Michigan",2021,17,690,9
+"134","Lake Trout","Michigan",2019,81.9,1218,7
+"135","Walleye","Erie",2019,63.9,1081,4
+"136","Smallmouth Bass","Michigan",2016,39.7,544,1
+"137","Yellow Perch","Erie",2017,35.5,993,2
+"138","Northern Pike","Ontario",2021,29.3,808,5
+"139","Lake Trout","Ontario",2020,41.6,695,5
+"140","Walleye","Erie",2016,37.2,427,8
+"141","Yellow Perch","Ontario",2020,47.7,1031,6
+"142","Yellow Perch","Ontario",2016,35.6,610,8
+"143","Whitefish","Ontario",2016,61.2,764,2
+"144","Smallmouth Bass","Superior",2016,41.9,1538,3
+"145","Lake Trout","Huron",2017,36.1,1316,6
+"146","Walleye","Michigan",2016,55.4,511,3
+"147","Whitefish","Superior",2018,15.7,1176,6
+"148","Smallmouth Bass","Ontario",2023,45.1,1066,6
+"149","Whitefish","Erie",2020,40.4,1851,2
+"150","Northern Pike","Ontario",2015,18.8,1692,7
+"151","Smallmouth Bass","Huron",2022,14.4,233,2
+"152","Smallmouth Bass","Ontario",2021,55.2,1431,6
+"153","Lake Trout","Erie",2017,54.4,1633,1
+"154","Smallmouth Bass","Huron",2015,42.6,1280,3
+"155","Whitefish","Ontario",2019,65.7,832,2
+"156","Smallmouth Bass","Huron",2018,46.6,2207,7
+"157","Lake Trout","Michigan",2022,58.7,1326,4
+"158","Lake Trout","Michigan",2015,46.3,1988,8
+"159","Northern Pike","Ontario",2015,35.9,1676,6
+"160","Whitefish","Huron",2018,24.1,1232,4
+"161","Yellow Perch","Erie",2022,30.9,710,5
+"162","Yellow Perch","Ontario",2019,36.1,988,9
+"163","Smallmouth Bass","Michigan",2016,60.4,889,7
+"164","Northern Pike","Michigan",2020,51.5,393,9
+"165","Walleye","Ontario",2019,45,1325,7
+"166","Smallmouth Bass","Huron",2016,53.1,1784,1
+"167","Northern Pike","Michigan",2017,47.9,851,8
+"168","Whitefish","Huron",2023,43.9,2082,4
+"169","Whitefish","Michigan",2021,17.5,221,3
+"170","Whitefish","Michigan",2021,57.1,1527,7
+"171","Whitefish","Superior",2020,33.1,1836,3
+"172","Whitefish","Michigan",2022,56.3,898,8
+"173","Northern Pike","Erie",2018,57.8,907,6
+"174","Northern Pike","Ontario",2022,29.9,1521,5
+"175","Lake Trout","Ontario",2018,54.2,1253,4
+"176","Yellow Perch","Huron",2022,34.6,50,8
+"177","Whitefish","Michigan",2023,34.7,578,8
+"178","Walleye","Erie",2017,43.9,993,1
+"179","Northern Pike","Huron",2017,44.3,315,9
+"180","Walleye","Superior",2016,40.6,763,5
+"181","Walleye","Huron",2017,20,328,4
+"182","Walleye","Huron",2017,38.2,815,6
+"183","Lake Trout","Michigan",2019,74.2,832,6
+"184","Northern Pike","Superior",2019,5,1176,2
+"185","Walleye","Huron",2016,53,954,8
+"186","Whitefish","Erie",2020,55.9,1251,7
+"187","Smallmouth Bass","Erie",2019,19.6,1192,1
+"188","Walleye","Ontario",2020,33,1516,5
+"189","Lake Trout","Superior",2015,25,1437,6
+"190","Northern Pike","Superior",2019,67.8,1384,4
+"191","Lake Trout","Ontario",2023,56.5,2552,2
+"192","Walleye","Huron",2016,57.3,1174,4
+"193","Northern Pike","Superior",2015,41.8,2297,1
+"194","Smallmouth Bass","Erie",2023,59.7,1206,7
+"195","Walleye","Erie",2023,39.9,959,2
+"196","Lake Trout","Michigan",2023,60.4,813,2
+"197","Yellow Perch","Superior",2020,37.8,1755,9
+"198","Whitefish","Huron",2022,29.8,1820,5
+"199","Lake Trout","Ontario",2015,67.2,1300,2
+"200","Northern Pike","Ontario",2018,39.7,1567,9
+"201","Walleye","Huron",2015,26.5,361,9
+"202","Whitefish","Michigan",2022,26.4,226,1
+"203","Walleye","Ontario",2015,26.4,1623,3
+"204","Northern Pike","Superior",2017,52.7,937,4
+"205","Walleye","Michigan",2018,38.5,1375,7
+"206","Yellow Perch","Superior",2022,74.5,641,4
+"207","Whitefish","Erie",2020,57.8,1828,2
+"208","Whitefish","Michigan",2021,43.9,230,7
+"209","Northern Pike","Ontario",2022,61.1,307,6
+"210","Yellow Perch","Michigan",2016,32.6,1722,3
+"211","Lake Trout","Michigan",2022,12.2,50,6
+"212","Walleye","Michigan",2017,25.2,1189,6
+"213","Smallmouth Bass","Michigan",2021,42.2,946,5
+"214","Walleye","Superior",2017,36.7,632,4
+"215","Walleye","Erie",2021,52.4,900,1
+"216","Lake Trout","Huron",2016,38.1,576,6
+"217","Walleye","Michigan",2020,51.2,1771,2
+"218","Yellow Perch","Ontario",2017,62.5,1902,3
+"219","Yellow Perch","Michigan",2017,38.1,657,8
+"220","Whitefish","Ontario",2023,48.3,1138,6
+"221","Northern Pike","Superior",2021,13.7,337,3
+"222","Smallmouth Bass","Ontario",2019,38.1,1537,7
+"223","Walleye","Huron",2021,21.5,1524,4
+"224","Walleye","Erie",2023,42.2,852,9
+"225","Lake Trout","Ontario",2015,43.5,1008,5
+"226","Northern Pike","Ontario",2021,43.5,953,3
+"227","Yellow Perch","Erie",2020,32.8,191,2
+"228","Smallmouth Bass","Huron",2023,74.5,1773,2
+"229","Whitefish","Michigan",2015,21,617,3
+"230","Yellow Perch","Ontario",2018,20.1,620,2
+"231","Northern Pike","Erie",2023,64.8,925,4
+"232","Whitefish","Superior",2018,29.4,1498,2
+"233","Lake Trout","Erie",2017,25.8,704,9
+"234","Lake Trout","Superior",2023,74.5,50,2
+"235","Walleye","Huron",2016,54.8,557,9
+"236","Northern Pike","Michigan",2018,31.1,1212,6
+"237","Smallmouth Bass","Erie",2020,43.3,2095,1
+"238","Whitefish","Ontario",2016,69.2,370,4
+"239","Yellow Perch","Huron",2022,50.4,352,1
+"240","Northern Pike","Erie",2022,59.3,244,6
+"241","Northern Pike","Ontario",2015,52.1,182,4
+"242","Lake Trout","Erie",2017,54,1603,3
+"243","Walleye","Superior",2023,40.6,1747,3
+"244","Walleye","Erie",2019,40.2,1089,9
+"245","Whitefish","Erie",2020,44,766,6
+"246","Lake Trout","Erie",2018,51,1896,9
+"247","Northern Pike","Huron",2016,35.8,1087,5
+"248","Smallmouth Bass","Erie",2022,41.8,1545,2
+"249","Lake Trout","Ontario",2020,35.3,742,8
+"250","Whitefish","Superior",2019,41.7,1022,5
+"251","Whitefish","Superior",2023,21.2,381,2
+"252","Lake Trout","Erie",2015,79.1,1315,4
+"253","Whitefish","Huron",2019,29,1095,9
+"254","Lake Trout","Huron",2020,34.6,553,4
+"255","Yellow Perch","Ontario",2019,27.7,559,4
+"256","Lake Trout","Erie",2020,49.2,1808,2
+"257","Lake Trout","Superior",2020,37.1,1986,6
+"258","Whitefish","Huron",2021,25.5,893,2
+"259","Whitefish","Erie",2018,49.9,1034,7
+"260","Walleye","Huron",2022,51.9,1200,3
+"261","Walleye","Huron",2021,39,1074,3
+"262","Yellow Perch","Superior",2023,30,163,5
+"263","Walleye","Michigan",2021,72.9,1214,3
+"264","Lake Trout","Ontario",2017,45.1,50,2
+"265","Whitefish","Ontario",2017,20.9,634,9
+"266","Walleye","Superior",2022,61.2,1253,2
+"267","Walleye","Huron",2019,27.2,1300,2
+"268","Yellow Perch","Erie",2018,81.1,595,8
+"269","Northern Pike","Huron",2022,41.2,771,9
+"270","Yellow Perch","Superior",2020,55.2,703,7
+"271","Lake Trout","Ontario",2016,8.8,949,3
+"272","Whitefish","Huron",2018,20.7,987,9
+"273","Yellow Perch","Ontario",2018,60,1334,3
+"274","Walleye","Erie",2020,44.8,742,5
+"275","Whitefish","Ontario",2020,70.6,1187,9
+"276","Whitefish","Ontario",2015,47.3,1254,3
+"277","Walleye","Michigan",2022,42.2,1099,7
+"278","Yellow Perch","Michigan",2020,65.7,870,1
+"279","Walleye","Michigan",2017,55.2,1090,4
+"280","Northern Pike","Ontario",2023,37.1,1376,4
+"281","Whitefish","Superior",2016,23.6,1420,7
+"282","Smallmouth Bass","Ontario",2022,5,1908,8
+"283","Smallmouth Bass","Superior",2017,33.4,505,1
+"284","Lake Trout","Superior",2019,22.2,780,5
+"285","Walleye","Michigan",2020,79,193,7
+"286","Walleye","Huron",2020,30.2,1466,4
+"287","Lake Trout","Erie",2018,29.8,833,4
+"288","Lake Trout","Michigan",2017,17.2,1103,4
+"289","Lake Trout","Michigan",2018,36,698,6
+"290","Whitefish","Huron",2015,30,837,7
+"291","Northern Pike","Erie",2018,66.1,1612,2
+"292","Walleye","Ontario",2015,42.5,1347,5
+"293","Whitefish","Ontario",2015,39.9,944,4
+"294","Lake Trout","Michigan",2020,38,1384,3
+"295","Walleye","Erie",2019,51.8,1395,7
+"296","Whitefish","Michigan",2018,33.2,804,6
+"297","Northern Pike","Superior",2017,50,265,7
+"298","Whitefish","Michigan",2015,64.2,550,5
+"299","Northern Pike","Michigan",2020,46.9,330,6
+"300","Lake Trout","Ontario",2016,36.3,1582,5

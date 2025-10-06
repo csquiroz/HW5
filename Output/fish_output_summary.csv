@@ -1,0 +1,26 @@
+"Species","Year","mean_weight","median_weight","sample_size"
+"Smallmouth Bass",2015,1134.66666666667,1235,3
+"Smallmouth Bass",2016,716.5,716.5,2
+"Smallmouth Bass",2017,1254,1254,1
+"Smallmouth Bass",2019,1074,1192,3
+"Smallmouth Bass",2020,2039,2039,2
+"Smallmouth Bass",2021,1360.5,1360.5,2
+"Smallmouth Bass",2022,1545,1545,1
+"Smallmouth Bass",2023,1476,1299,3
+"Walleye",2015,1265,1273,3
+"Walleye",2016,469,469,2
+"Walleye",2017,1090.66666666667,1090,3
+"Walleye",2018,1375,1375,1
+"Walleye",2019,1204,1170,4
+"Walleye",2020,756.833333333333,592,6
+"Walleye",2021,1057,1057,2
+"Walleye",2022,906,906,2
+"Walleye",2023,1035.5,962,4
+"Yellow Perch",2015,1417,1417,1
+"Yellow Perch",2016,1722,1722,1
+"Yellow Perch",2017,600,657,3
+"Yellow Perch",2018,595,595,1
+"Yellow Perch",2019,937,937,2
+"Yellow Perch",2020,721.666666666667,870,3
+"Yellow Perch",2022,1000.66666666667,710,3
+"Yellow Perch",2023,1172,1172,2

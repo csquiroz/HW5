@@ -1,0 +1,45 @@
+"Species","Lake","Year","Length_cm","Weight_g","Age_years"
+"Smallmouth Bass","Superior",2020,10.8,862,7
+"Yellow Perch","Michigan",2020,43.9,1104,1
+"Northern Pike","Huron",2020,32.4,1234,2
+"Yellow Perch","Ontario",2020,42.8,375,3
+"Yellow Perch","Ontario",2020,73.1,1115,5
+"Whitefish","Ontario",2020,16.3,573,4
+"Northern Pike","Huron",2020,15.8,685,4
+"Walleye","Erie",2020,32.5,416,1
+"Whitefish","Ontario",2020,45.8,629,4
+"Yellow Perch","Ontario",2020,41.3,1115,8
+"Walleye","Michigan",2020,40.4,977,8
+"Northern Pike","Erie",2020,44.9,1246,9
+"Northern Pike","Huron",2020,37.2,1563,7
+"Smallmouth Bass","Huron",2020,54.3,1054,7
+"Walleye","Erie",2020,36.8,442,1
+"Walleye","Huron",2020,42.4,1177,7
+"Smallmouth Bass","Michigan",2020,56.9,1983,8
+"Lake Trout","Michigan",2020,73.8,1981,5
+"Lake Trout","Erie",2020,15.2,1451,9
+"Lake Trout","Ontario",2020,41.6,695,5
+"Yellow Perch","Ontario",2020,47.7,1031,6
+"Whitefish","Erie",2020,40.4,1851,2
+"Northern Pike","Michigan",2020,51.5,393,9
+"Whitefish","Superior",2020,33.1,1836,3
+"Whitefish","Erie",2020,55.9,1251,7
+"Walleye","Ontario",2020,33,1516,5
+"Yellow Perch","Superior",2020,37.8,1755,9
+"Whitefish","Erie",2020,57.8,1828,2
+"Walleye","Michigan",2020,51.2,1771,2
+"Yellow Perch","Erie",2020,32.8,191,2
+"Smallmouth Bass","Erie",2020,43.3,2095,1
+"Whitefish","Erie",2020,44,766,6
+"Lake Trout","Ontario",2020,35.3,742,8
+"Lake Trout","Huron",2020,34.6,553,4
+"Lake Trout","Erie",2020,49.2,1808,2
+"Lake Trout","Superior",2020,37.1,1986,6
+"Yellow Perch","Superior",2020,55.2,703,7
+"Walleye","Erie",2020,44.8,742,5
+"Whitefish","Ontario",2020,70.6,1187,9
+"Yellow Perch","Michigan",2020,65.7,870,1
+"Walleye","Michigan",2020,79,193,7
+"Walleye","Huron",2020,30.2,1466,4
+"Lake Trout","Michigan",2020,38,1384,3
+"Northern Pike","Michigan",2020,46.9,330,6

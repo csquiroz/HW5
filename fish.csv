@@ -1,0 +1,301 @@
+Species,Lake,Year,Length_cm,Weight_g,Age_years
+Whitefish,Erie,2019,71.0,523.0,1
+Smallmouth Bass,Superior,2020,10.8,862.0,7
+Lake Trout,Erie,2017,19.0,1282.0,5
+Smallmouth Bass,Ontario,2022,43.4,234.0,3
+Smallmouth Bass,Michigan,2015,31.3,1416.0,9
+Yellow Perch,Michigan,2020,43.9,1104.0,1
+Lake Trout,Michigan,2018,38.9,925.0,1
+Lake Trout,Superior,2015,24.6,670.0,1
+Lake Trout,Ontario,2021,59.3,762.0,3
+Smallmouth Bass,Erie,2023,47.0,1299.0,6
+Whitefish,Huron,2018,31.6,936.0,3
+Lake Trout,Erie,2018,62.6,749.0,8
+Northern Pike,Huron,2020,32.4,1234.0,2
+Smallmouth Bass,Erie,2017,21.4,1254.0,9
+Yellow Perch,Ontario,2020,42.8,375.0,3
+Whitefish,Huron,2021,45.3,1286.0,5
+Northern Pike,Superior,2017,48.0,2251.0,8
+Northern Pike,Erie,2021,50.4,1235.0,2
+Yellow Perch,Erie,2017,47.7,150.0,6
+Whitefish,Huron,2016,47.1,1089.0,5
+Smallmouth Bass,Superior,2018,31.4,85.0,9
+Walleye,Superior,2022,29.8,2584.0,5
+Whitefish,Ontario,2023,51.1,2118.0,2
+Yellow Perch,Superior,2021,43.7,667.0,5
+Northern Pike,Superior,2015,52.3,50.0,4
+Smallmouth Bass,Superior,2017,14.4,561.0,7
+Whitefish,Michigan,2023,32.5,910.0,6
+Walleye,Ontario,2015,68.6,119.0,2
+Walleye,Erie,2023,48.3,965.0,5
+Lake Trout,Huron,2022,44.4,906.0,7
+Lake Trout,Erie,2015,50.6,1063.0,7
+Yellow Perch,Ontario,2020,73.1,1115.0,5
+Whitefish,Huron,2019,70.0,517.0,9
+Whitefish,Ontario,2020,16.3,573.0,4
+Northern Pike,Superior,2019,21.8,1023.0,3
+Northern Pike,Huron,2020,15.8,685.0,4
+Northern Pike,Superior,2019,28.8,1454.0,5
+Lake Trout,Erie,2019,40.8,1018.0,6
+Whitefish,Erie,2018,43.6,1933.0,3
+Whitefish,Huron,2017,17.0,1410.0,2
+Walleye,Huron,2017,12.0,1552.0,4
+Lake Trout,Ontario,2018,28.5,1066.0,5
+Smallmouth Bass,Ontario,2023,53.7,1079.0,4
+Lake Trout,Superior,2016,56.4,1866.0,3
+Smallmouth Bass,Huron,2023,65.6,811.0,8
+Walleye,Erie,2015,39.5,1273.0,4
+Yellow Perch,Ontario,2015,52.4,867.0,2
+Whitefish,Ontario,2019,55.1,866.0,2
+Walleye,Erie,2020,32.5,416.0,1
+Whitefish,Ontario,2020,45.8,629.0,4
+Northern Pike,Superior,2017,49.9,536.0,9
+Yellow Perch,Huron,2021,26.4,1297.0,7
+Yellow Perch,Erie,2023,64.6,1520.0,7
+Walleye,Huron,2022,39.4,953.0,7
+Yellow Perch,Ontario,2020,41.3,1115.0,8
+Smallmouth Bass,Ontario,2022,25.8,924.0,1
+Yellow Perch,Erie,2019,28.3,595.0,8
+Whitefish,Superior,2022,7.1,1431.0,4
+Whitefish,Michigan,2018,40.8,1326.0,4
+Whitefish,Erie,2022,77.6,54.0,4
+Whitefish,Michigan,2016,24.7,858.0,6
+Smallmouth Bass,Michigan,2019,84.6,559.0,7
+Lake Trout,Superior,2023,61.2,805.0,6
+Northern Pike,Michigan,2018,32.9,665.0,1
+Walleye,Michigan,2020,40.4,977.0,8
+Whitefish,Superior,2015,38.0,835.0,7
+Yellow Perch,Michigan,2023,65.6,824.0,6
+Whitefish,Michigan,2015,47.8,1554.0,6
+Yellow Perch,Michigan,2019,57.7,1279.0,5
+Northern Pike,Erie,2018,45.4,648.0,6
+Northern Pike,Erie,2017,38.3,722.0,9
+Northern Pike,Erie,2020,44.9,1246.0,9
+Yellow Perch,Superior,2016,33.9,1245.0,8
+Whitefish,Ontario,2017,18.2,698.0,9
+Northern Pike,Michigan,2019,52.2,883.0,8
+Smallmouth Bass,Michigan,2023,17.5,1923.0,8
+Yellow Perch,Superior,2016,36.0,707.0,1
+Yellow Perch,Michigan,2022,33.4,1955.0,5
+Whitefish,Erie,2016,49.7,1552.0,4
+Yellow Perch,Ontario,2019,63.5,1863.0,2
+Yellow Perch,Huron,2021,58.1,685.0,8
+Northern Pike,Michigan,2022,50.1,916.0,3
+Whitefish,Erie,2015,30.6,775.0,4
+Northern Pike,Huron,2020,37.2,1563.0,7
+Northern Pike,Ontario,2015,35.1,716.0,9
+Whitefish,Huron,2016,32.9,1366.0,2
+Walleye,Erie,2015,34.0,1339.0,3
+Northern Pike,Huron,2019,33.6,976.0,4
+Smallmouth Bass,Superior,2023,32.9,1649.0,1
+Smallmouth Bass,Huron,2020,54.3,1054.0,7
+Yellow Perch,Michigan,2015,24.2,1417.0,2
+Smallmouth Bass,Michigan,2015,29.1,753.0,5
+Yellow Perch,Superior,2016,16.2,638.0,1
+Walleye,Erie,2023,61.2,1366.0,3
+Whitefish,Michigan,2017,28.1,1215.0,2
+Whitefish,Ontario,2015,49.9,1122.0,1
+Whitefish,Michigan,2019,47.1,828.0,7
+Smallmouth Bass,Michigan,2021,59.8,1775.0,5
+Walleye,Erie,2020,36.8,442.0,1
+Smallmouth Bass,Huron,2015,25.8,414.0,6
+Smallmouth Bass,Michigan,2019,16.7,1471.0,5
+Walleye,Superior,2019,5.0,1430.0,3
+Walleye,Huron,2020,42.4,1177.0,7
+Walleye,Ontario,2017,51.6,856.0,9
+Walleye,Erie,2019,47.1,1251.0,9
+Whitefish,Ontario,2021,17.1,1860.0,9
+Lake Trout,Huron,2019,55.6,2258.0,2
+Lake Trout,Huron,2019,29.5,172.0,3
+Walleye,Huron,2019,26.4,791.0,7
+Lake Trout,Ontario,2017,29.2,759.0,5
+Lake Trout,Huron,2015,41.2,1813.0,2
+Walleye,Ontario,2019,17.7,50.0,3
+Lake Trout,Huron,2023,39.4,1257.0,6
+Smallmouth Bass,Superior,2015,46.4,872.0,7
+Yellow Perch,Huron,2017,56.6,1819.0,9
+Yellow Perch,Ontario,2018,42.6,1751.0,1
+Walleye,Michigan,2015,19.9,1183.0,7
+Whitefish,Huron,2015,42.2,210.0,8
+Walleye,Michigan,2022,24.1,713.0,3
+Whitefish,Superior,2016,23.2,768.0,4
+Yellow Perch,Erie,2022,19.6,337.0,6
+Walleye,Superior,2021,11.3,1577.0,7
+Northern Pike,Huron,2016,31.5,273.0,4
+Smallmouth Bass,Michigan,2020,56.9,1983.0,8
+Lake Trout,Michigan,2020,73.8,1981.0,5
+Whitefish,Ontario,2017,31.4,807.0,1
+Northern Pike,Michigan,2016,56.3,1164.0,4
+Lake Trout,Ontario,2015,34.1,964.0,3
+Lake Trout,Erie,2020,15.2,1451.0,9
+Walleye,Huron,2019,50.5,1637.0,8
+Lake Trout,Ontario,2023,43.5,1129.0,1
+Smallmouth Bass,Erie,2015,67.3,1235.0,6
+Northern Pike,Michigan,2021,17.0,690.0,9
+Lake Trout,Michigan,2019,81.9,1218.0,7
+Walleye,Erie,2019,63.9,1081.0,4
+Smallmouth Bass,Michigan,2016,39.7,544.0,1
+Yellow Perch,Erie,2017,35.5,993.0,2
+Northern Pike,Ontario,2021,29.3,808.0,5
+Lake Trout,Ontario,2020,41.6,695.0,5
+Walleye,Erie,2016,37.2,427.0,8
+Yellow Perch,Ontario,2020,47.7,1031.0,6
+Yellow Perch,Ontario,2016,35.6,610.0,8
+Whitefish,Ontario,2016,61.2,764.0,2
+Smallmouth Bass,Superior,2016,41.9,1538.0,3
+Lake Trout,Huron,2017,36.1,1316.0,6
+Walleye,Michigan,2016,55.4,511.0,3
+Whitefish,Superior,2018,15.7,1176.0,6
+Smallmouth Bass,Ontario,2023,45.1,1066.0,6
+Whitefish,Erie,2020,40.4,1851.0,2
+Northern Pike,Ontario,2015,18.8,1692.0,7
+Smallmouth Bass,Huron,2022,14.4,233.0,2
+Smallmouth Bass,Ontario,2021,55.2,1431.0,6
+Lake Trout,Erie,2017,54.4,1633.0,1
+Smallmouth Bass,Huron,2015,42.6,1280.0,3
+Whitefish,Ontario,2019,65.7,832.0,2
+Smallmouth Bass,Huron,2018,46.6,2207.0,7
+Lake Trout,Michigan,2022,58.7,1326.0,4
+Lake Trout,Michigan,2015,46.3,1988.0,8
+Northern Pike,Ontario,2015,35.9,1676.0,6
+Whitefish,Huron,2018,24.1,1232.0,4
+Yellow Perch,Erie,2022,30.9,710.0,5
+Yellow Perch,Ontario,2019,36.1,988.0,9
+Smallmouth Bass,Michigan,2016,60.4,889.0,7
+Northern Pike,Michigan,2020,51.5,393.0,9
+Walleye,Ontario,2019,45.0,1325.0,7
+Smallmouth Bass,Huron,2016,53.1,1784.0,1
+Northern Pike,Michigan,2017,47.9,851.0,8
+Whitefish,Huron,2023,43.9,2082.0,4
+Whitefish,Michigan,2021,17.5,221.0,3
+Whitefish,Michigan,2021,57.1,1527.0,7
+Whitefish,Superior,2020,33.1,1836.0,3
+Whitefish,Michigan,2022,56.3,898.0,8
+Northern Pike,Erie,2018,57.8,907.0,6
+Northern Pike,Ontario,2022,29.9,1521.0,5
+Lake Trout,Ontario,2018,54.2,1253.0,4
+Yellow Perch,Huron,2022,34.6,50.0,8
+Whitefish,Michigan,2023,34.7,578.0,8
+Walleye,Erie,2017,43.9,993.0,1
+Northern Pike,Huron,2017,44.3,315.0,9
+Walleye,Superior,2016,40.6,763.0,5
+Walleye,Huron,2017,20.0,328.0,4
+Walleye,Huron,2017,38.2,815.0,6
+Lake Trout,Michigan,2019,74.2,832.0,6
+Northern Pike,Superior,2019,5.0,1176.0,2
+Walleye,Huron,2016,53.0,954.0,8
+Whitefish,Erie,2020,55.9,1251.0,7
+Smallmouth Bass,Erie,2019,19.6,1192.0,1
+Walleye,Ontario,2020,33.0,1516.0,5
+Lake Trout,Superior,2015,25.0,1437.0,6
+Northern Pike,Superior,2019,67.8,1384.0,4
+Lake Trout,Ontario,2023,56.5,2552.0,2
+Walleye,Huron,2016,57.3,1174.0,4
+Northern Pike,Superior,2015,41.8,2297.0,1
+Smallmouth Bass,Erie,2023,59.7,1206.0,7
+Walleye,Erie,2023,39.9,959.0,2
+Lake Trout,Michigan,2023,60.4,813.0,2
+Yellow Perch,Superior,2020,37.8,1755.0,9
+Whitefish,Huron,2022,29.8,1820.0,5
+Lake Trout,Ontario,2015,67.2,1300.0,2
+Northern Pike,Ontario,2018,39.7,1567.0,9
+Walleye,Huron,2015,26.5,361.0,9
+Whitefish,Michigan,2022,26.4,226.0,1
+Walleye,Ontario,2015,26.4,1623.0,3
+Northern Pike,Superior,2017,52.7,937.0,4
+Walleye,Michigan,2018,38.5,1375.0,7
+Yellow Perch,Superior,2022,74.5,641.0,4
+Whitefish,Erie,2020,57.8,1828.0,2
+Whitefish,Michigan,2021,43.9,230.0,7
+Northern Pike,Ontario,2022,61.1,307.0,6
+Yellow Perch,Michigan,2016,32.6,1722.0,3
+Lake Trout,Michigan,2022,12.2,50.0,6
+Walleye,Michigan,2017,25.2,1189.0,6
+Smallmouth Bass,Michigan,2021,42.2,946.0,5
+Walleye,Superior,2017,36.7,632.0,4
+Walleye,Erie,2021,52.4,900.0,1
+Lake Trout,Huron,2016,38.1,576.0,6
+Walleye,Michigan,2020,51.2,1771.0,2
+Yellow Perch,Ontario,2017,62.5,1902.0,3
+Yellow Perch,Michigan,2017,38.1,657.0,8
+Whitefish,Ontario,2023,48.3,1138.0,6
+Northern Pike,Superior,2021,13.7,337.0,3
+Smallmouth Bass,Ontario,2019,38.1,1537.0,7
+Walleye,Huron,2021,21.5,1524.0,4
+Walleye,Erie,2023,42.2,852.0,9
+Lake Trout,Ontario,2015,43.5,1008.0,5
+Northern Pike,Ontario,2021,43.5,953.0,3
+Yellow Perch,Erie,2020,32.8,191.0,2
+Smallmouth Bass,Huron,2023,74.5,1773.0,2
+Whitefish,Michigan,2015,21.0,617.0,3
+Yellow Perch,Ontario,2018,20.1,620.0,2
+Northern Pike,Erie,2023,64.8,925.0,4
+Whitefish,Superior,2018,29.4,1498.0,2
+Lake Trout,Erie,2017,25.8,704.0,9
+Lake Trout,Superior,2023,74.5,50.0,2
+Walleye,Huron,2016,54.8,557.0,9
+Northern Pike,Michigan,2018,31.1,1212.0,6
+Smallmouth Bass,Erie,2020,43.3,2095.0,1
+Whitefish,Ontario,2016,69.2,370.0,4
+Yellow Perch,Huron,2022,50.4,352.0,1
+Northern Pike,Erie,2022,59.3,244.0,6
+Northern Pike,Ontario,2015,52.1,182.0,4
+Lake Trout,Erie,2017,54.0,1603.0,3
+Walleye,Superior,2023,40.6,1747.0,3
+Walleye,Erie,2019,40.2,1089.0,9
+Whitefish,Erie,2020,44.0,766.0,6
+Lake Trout,Erie,2018,51.0,1896.0,9
+Northern Pike,Huron,2016,35.8,1087.0,5
+Smallmouth Bass,Erie,2022,41.8,1545.0,2
+Lake Trout,Ontario,2020,35.3,742.0,8
+Whitefish,Superior,2019,41.7,1022.0,5
+Whitefish,Superior,2023,21.2,381.0,2
+Lake Trout,Erie,2015,79.1,1315.0,4
+Whitefish,Huron,2019,29.0,1095.0,9
+Lake Trout,Huron,2020,34.6,553.0,4
+Yellow Perch,Ontario,2019,27.7,559.0,4
+Lake Trout,Erie,2020,49.2,1808.0,2
+Lake Trout,Superior,2020,37.1,1986.0,6
+Whitefish,Huron,2021,25.5,893.0,2
+Whitefish,Erie,2018,49.9,1034.0,7
+Walleye,Huron,2022,51.9,1200.0,3
+Walleye,Huron,2021,39.0,1074.0,3
+Yellow Perch,Superior,2023,30.0,163.0,5
+Walleye,Michigan,2021,72.9,1214.0,3
+Lake Trout,Ontario,2017,45.1,50.0,2
+Whitefish,Ontario,2017,20.9,634.0,9
+Walleye,Superior,2022,61.2,1253.0,2
+Walleye,Huron,2019,27.2,1300.0,2
+Yellow Perch,Erie,2018,81.1,595.0,8
+Northern Pike,Huron,2022,41.2,771.0,9
+Yellow Perch,Superior,2020,55.2,703.0,7
+Lake Trout,Ontario,2016,8.8,949.0,3
+Whitefish,Huron,2018,20.7,987.0,9
+Yellow Perch,Ontario,2018,60.0,1334.0,3
+Walleye,Erie,2020,44.8,742.0,5
+Whitefish,Ontario,2020,70.6,1187.0,9
+Whitefish,Ontario,2015,47.3,1254.0,3
+Walleye,Michigan,2022,42.2,1099.0,7
+Yellow Perch,Michigan,2020,65.7,870.0,1
+Walleye,Michigan,2017,55.2,1090.0,4
+Northern Pike,Ontario,2023,37.1,1376.0,4
+Whitefish,Superior,2016,23.6,1420.0,7
+Smallmouth Bass,Ontario,2022,5.0,1908.0,8
+Smallmouth Bass,Superior,2017,33.4,505.0,1
+Lake Trout,Superior,2019,22.2,780.0,5
+Walleye,Michigan,2020,79.0,193.0,7
+Walleye,Huron,2020,30.2,1466.0,4
+Lake Trout,Erie,2018,29.8,833.0,4
+Lake Trout,Michigan,2017,17.2,1103.0,4
+Lake Trout,Michigan,2018,36.0,698.0,6
+Whitefish,Huron,2015,30.0,837.0,7
+Northern Pike,Erie,2018,66.1,1612.0,2
+Walleye,Ontario,2015,42.5,1347.0,5
+Whitefish,Ontario,2015,39.9,944.0,4
+Lake Trout,Michigan,2020,38.0,1384.0,3
+Walleye,Erie,2019,51.8,1395.0,7
+Whitefish,Michigan,2018,33.2,804.0,6
+Northern Pike,Superior,2017,50.0,265.0,7
+Whitefish,Michigan,2015,64.2,550.0,5
+Northern Pike,Michigan,2020,46.9,330.0,6
+Lake Trout,Ontario,2016,36.3,1582.0,5

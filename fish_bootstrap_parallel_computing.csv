@@ -1,0 +1,301 @@
+Species,Lake,Year,Length_cm,Weight_g,Age_years
+Whitefish,Erie,2019,71,523,1
+Smallmouth Bass,Erie,2020,10.8,862,7
+Lake Trout,Erie,2017,19,1282,5
+Smallmouth Bass,Erie,2022,43.4,234,3
+Smallmouth Bass,Erie,2015,31.3,1416,9
+Yellow Perch,Erie,2020,43.9,1104,1
+Lake Trout,Erie,2018,38.9,925,1
+Lake Trout,Erie,2015,24.6,670,1
+Lake Trout,Erie,2021,59.3,762,3
+Smallmouth Bass,Erie,2023,47,1299,6
+Whitefish,Erie,2018,31.6,936,3
+Lake Trout,Erie,2018,62.6,749,8
+Northern Pike,Erie,2020,32.4,1234,2
+Smallmouth Bass,Erie,2017,21.4,1254,9
+Yellow Perch,Erie,2020,42.8,375,3
+Whitefish,Erie,2021,45.3,1286,5
+Northern Pike,Erie,2017,48,2251,8
+Northern Pike,Erie,2021,50.4,1235,2
+Yellow Perch,Erie,2017,47.7,150,6
+Whitefish,Erie,2016,47.1,1089,5
+Smallmouth Bass,Erie,2018,31.4,85,9
+Walleye,Erie,2022,29.8,2584,5
+Whitefish,Erie,2023,51.1,2118,2
+Yellow Perch,Erie,2021,43.7,667,5
+Northern Pike,Erie,2015,52.3,50,4
+Smallmouth Bass,Erie,2017,14.4,561,7
+Whitefish,Erie,2023,32.5,910,6
+Walleye,Erie,2015,68.6,119,2
+Walleye,Erie,2023,48.3,965,5
+Lake Trout,Erie,2022,44.4,906,7
+Lake Trout,Erie,2015,50.6,1063,7
+Yellow Perch,Erie,2020,73.1,1115,5
+Whitefish,Erie,2019,70,517,9
+Whitefish,Erie,2020,16.3,573,4
+Northern Pike,Erie,2019,21.8,1023,3
+Northern Pike,Erie,2020,15.8,685,4
+Northern Pike,Erie,2019,28.8,1454,5
+Lake Trout,Erie,2019,40.8,1018,6
+Whitefish,Erie,2018,43.6,1933,3
+Whitefish,Erie,2017,17,1410,2
+Walleye,Erie,2017,12,1552,4
+Lake Trout,Erie,2018,28.5,1066,5
+Smallmouth Bass,Erie,2023,53.7,1079,4
+Lake Trout,Erie,2016,56.4,1866,3
+Smallmouth Bass,Erie,2023,65.6,811,8
+Walleye,Erie,2015,39.5,1273,4
+Yellow Perch,Erie,2015,52.4,867,2
+Whitefish,Erie,2019,55.1,866,2
+Walleye,Erie,2020,32.5,416,1
+Whitefish,Erie,2020,45.8,629,4
+Northern Pike,Erie,2017,49.9,536,9
+Yellow Perch,Erie,2021,26.4,1297,7
+Yellow Perch,Erie,2023,64.6,1520,7
+Walleye,Erie,2022,39.4,953,7
+Yellow Perch,Erie,2020,41.3,1115,8
+Smallmouth Bass,Erie,2022,25.8,924,1
+Yellow Perch,Erie,2019,28.3,595,8
+Whitefish,Erie,2022,7.1,1431,4
+Whitefish,Erie,2018,40.8,1326,4
+Whitefish,Erie,2022,77.6,54,4
+Whitefish,Erie,2016,24.7,858,6
+Smallmouth Bass,Erie,2019,84.6,559,7
+Lake Trout,Erie,2023,61.2,805,6
+Northern Pike,Erie,2018,32.9,665,1
+Walleye,Erie,2020,40.4,977,8
+Whitefish,Erie,2015,38,835,7
+Yellow Perch,Erie,2023,65.6,824,6
+Whitefish,Erie,2015,47.8,1554,6
+Yellow Perch,Erie,2019,57.7,1279,5
+Northern Pike,Erie,2018,45.4,648,6
+Northern Pike,Erie,2017,38.3,722,9
+Northern Pike,Erie,2020,44.9,1246,9
+Yellow Perch,Erie,2016,33.9,1245,8
+Whitefish,Erie,2017,18.2,698,9
+Northern Pike,Erie,2019,52.2,883,8
+Smallmouth Bass,Erie,2023,17.5,1923,8
+Yellow Perch,Erie,2016,36,707,1
+Yellow Perch,Erie,2022,33.4,1955,5
+Whitefish,Erie,2016,49.7,1552,4
+Yellow Perch,Erie,2019,63.5,1863,2
+Yellow Perch,Erie,2021,58.1,685,8
+Northern Pike,Erie,2022,50.1,916,3
+Whitefish,Erie,2015,30.6,775,4
+Northern Pike,Erie,2020,37.2,1563,7
+Northern Pike,Erie,2015,35.1,716,9
+Whitefish,Erie,2016,32.9,1366,2
+Walleye,Erie,2015,34,1339,3
+Northern Pike,Erie,2019,33.6,976,4
+Smallmouth Bass,Erie,2023,32.9,1649,1
+Smallmouth Bass,Erie,2020,54.3,1054,7
+Yellow Perch,Erie,2015,24.2,1417,2
+Smallmouth Bass,Erie,2015,29.1,753,5
+Yellow Perch,Erie,2016,16.2,638,1
+Walleye,Erie,2023,61.2,1366,3
+Whitefish,Erie,2017,28.1,1215,2
+Whitefish,Erie,2015,49.9,1122,1
+Whitefish,Erie,2019,47.1,828,7
+Smallmouth Bass,Erie,2021,59.8,1775,5
+Walleye,Erie,2020,36.8,442,1
+Smallmouth Bass,Erie,2015,25.8,414,6
+Smallmouth Bass,Erie,2019,16.7,1471,5
+Walleye,Erie,2019,5,1430,3
+Walleye,Erie,2020,42.4,1177,7
+Walleye,Erie,2017,51.6,856,9
+Walleye,Erie,2019,47.1,1251,9
+Whitefish,Erie,2021,17.1,1860,9
+Lake Trout,Erie,2019,55.6,2258,2
+Lake Trout,Erie,2019,29.5,172,3
+Walleye,Erie,2019,26.4,791,7
+Lake Trout,Erie,2017,29.2,759,5
+Lake Trout,Erie,2015,41.2,1813,2
+Walleye,Erie,2019,17.7,50,3
+Lake Trout,Erie,2023,39.4,1257,6
+Smallmouth Bass,Erie,2015,46.4,872,7
+Yellow Perch,Erie,2017,56.6,1819,9
+Yellow Perch,Erie,2018,42.6,1751,1
+Walleye,Erie,2015,19.9,1183,7
+Whitefish,Erie,2015,42.2,210,8
+Walleye,Erie,2022,24.1,713,3
+Whitefish,Erie,2016,23.2,768,4
+Yellow Perch,Erie,2022,19.6,337,6
+Walleye,Erie,2021,11.3,1577,7
+Northern Pike,Erie,2016,31.5,273,4
+Smallmouth Bass,Erie,2020,56.9,1983,8
+Lake Trout,Erie,2020,73.8,1981,5
+Whitefish,Erie,2017,31.4,807,1
+Northern Pike,Erie,2016,56.3,1164,4
+Lake Trout,Erie,2015,34.1,964,3
+Lake Trout,Erie,2020,15.2,1451,9
+Walleye,Erie,2019,50.5,1637,8
+Lake Trout,Erie,2023,43.5,1129,1
+Smallmouth Bass,Erie,2015,67.3,1235,6
+Northern Pike,Erie,2021,17,690,9
+Lake Trout,Erie,2019,81.9,1218,7
+Walleye,Erie,2019,63.9,1081,4
+Smallmouth Bass,Erie,2016,39.7,544,1
+Yellow Perch,Erie,2017,35.5,993,2
+Northern Pike,Erie,2021,29.3,808,5
+Lake Trout,Erie,2020,41.6,695,5
+Walleye,Erie,2016,37.2,427,8
+Yellow Perch,Erie,2020,47.7,1031,6
+Yellow Perch,Erie,2016,35.6,610,8
+Whitefish,Erie,2016,61.2,764,2
+Smallmouth Bass,Erie,2016,41.9,1538,3
+Lake Trout,Erie,2017,36.1,1316,6
+Walleye,Erie,2016,55.4,511,3
+Whitefish,Erie,2018,15.7,1176,6
+Smallmouth Bass,Erie,2023,45.1,1066,6
+Whitefish,Erie,2020,40.4,1851,2
+Northern Pike,Erie,2015,18.8,1692,7
+Smallmouth Bass,Erie,2022,14.4,233,2
+Smallmouth Bass,Erie,2021,55.2,1431,6
+Lake Trout,Erie,2017,54.4,1633,1
+Smallmouth Bass,Erie,2015,42.6,1280,3
+Whitefish,Erie,2019,65.7,832,2
+Smallmouth Bass,Erie,2018,46.6,2207,7
+Lake Trout,Erie,2022,58.7,1326,4
+Lake Trout,Erie,2015,46.3,1988,8
+Northern Pike,Erie,2015,35.9,1676,6
+Whitefish,Erie,2018,24.1,1232,4
+Yellow Perch,Erie,2022,30.9,710,5
+Yellow Perch,Erie,2019,36.1,988,9
+Smallmouth Bass,Erie,2016,60.4,889,7
+Northern Pike,Erie,2020,51.5,393,9
+Walleye,Erie,2019,45,1325,7
+Smallmouth Bass,Erie,2016,53.1,1784,1
+Northern Pike,Erie,2017,47.9,851,8
+Whitefish,Erie,2023,43.9,2082,4
+Whitefish,Erie,2021,17.5,221,3
+Whitefish,Erie,2021,57.1,1527,7
+Whitefish,Erie,2020,33.1,1836,3
+Whitefish,Erie,2022,56.3,898,8
+Northern Pike,Erie,2018,57.8,907,6
+Northern Pike,Erie,2022,29.9,1521,5
+Lake Trout,Erie,2018,54.2,1253,4
+Yellow Perch,Erie,2022,34.6,50,8
+Whitefish,Erie,2023,34.7,578,8
+Walleye,Erie,2017,43.9,993,1
+Northern Pike,Erie,2017,44.3,315,9
+Walleye,Erie,2016,40.6,763,5
+Walleye,Erie,2017,20,328,4
+Walleye,Erie,2017,38.2,815,6
+Lake Trout,Erie,2019,74.2,832,6
+Northern Pike,Erie,2019,5,1176,2
+Walleye,Erie,2016,53,954,8
+Whitefish,Erie,2020,55.9,1251,7
+Smallmouth Bass,Erie,2019,19.6,1192,1
+Walleye,Erie,2020,33,1516,5
+Lake Trout,Erie,2015,25,1437,6
+Northern Pike,Erie,2019,67.8,1384,4
+Lake Trout,Erie,2023,56.5,2552,2
+Walleye,Erie,2016,57.3,1174,4
+Northern Pike,Erie,2015,41.8,2297,1
+Smallmouth Bass,Erie,2023,59.7,1206,7
+Walleye,Erie,2023,39.9,959,2
+Lake Trout,Erie,2023,60.4,813,2
+Yellow Perch,Erie,2020,37.8,1755,9
+Whitefish,Erie,2022,29.8,1820,5
+Lake Trout,Erie,2015,67.2,1300,2
+Northern Pike,Erie,2018,39.7,1567,9
+Walleye,Erie,2015,26.5,361,9
+Whitefish,Erie,2022,26.4,226,1
+Walleye,Erie,2015,26.4,1623,3
+Northern Pike,Erie,2017,52.7,937,4
+Walleye,Erie,2018,38.5,1375,7
+Yellow Perch,Erie,2022,74.5,641,4
+Whitefish,Erie,2020,57.8,1828,2
+Whitefish,Erie,2021,43.9,230,7
+Northern Pike,Erie,2022,61.1,307,6
+Yellow Perch,Erie,2016,32.6,1722,3
+Lake Trout,Erie,2022,12.2,50,6
+Walleye,Erie,2017,25.2,1189,6
+Smallmouth Bass,Erie,2021,42.2,946,5
+Walleye,Erie,2017,36.7,632,4
+Walleye,Erie,2021,52.4,900,1
+Lake Trout,Erie,2016,38.1,576,6
+Walleye,Erie,2020,51.2,1771,2
+Yellow Perch,Erie,2017,62.5,1902,3
+Yellow Perch,Erie,2017,38.1,657,8
+Whitefish,Erie,2023,48.3,1138,6
+Northern Pike,Erie,2021,13.7,337,3
+Smallmouth Bass,Erie,2019,38.1,1537,7
+Walleye,Erie,2021,21.5,1524,4
+Walleye,Erie,2023,42.2,852,9
+Lake Trout,Erie,2015,43.5,1008,5
+Northern Pike,Erie,2021,43.5,953,3
+Yellow Perch,Erie,2020,32.8,191,2
+Smallmouth Bass,Erie,2023,74.5,1773,2
+Whitefish,Erie,2015,21,617,3
+Yellow Perch,Erie,2018,20.1,620,2
+Northern Pike,Erie,2023,64.8,925,4
+Whitefish,Erie,2018,29.4,1498,2
+Lake Trout,Erie,2017,25.8,704,9
+Lake Trout,Erie,2023,74.5,50,2
+Walleye,Erie,2016,54.8,557,9
+Northern Pike,Erie,2018,31.1,1212,6
+Smallmouth Bass,Erie,2020,43.3,2095,1
+Whitefish,Erie,2016,69.2,370,4
+Yellow Perch,Erie,2022,50.4,352,1
+Northern Pike,Erie,2022,59.3,244,6
+Northern Pike,Erie,2015,52.1,182,4
+Lake Trout,Erie,2017,54,1603,3
+Walleye,Erie,2023,40.6,1747,3
+Walleye,Erie,2019,40.2,1089,9
+Whitefish,Erie,2020,44,766,6
+Lake Trout,Erie,2018,51,1896,9
+Northern Pike,Erie,2016,35.8,1087,5
+Smallmouth Bass,Erie,2022,41.8,1545,2
+Lake Trout,Erie,2020,35.3,742,8
+Whitefish,Erie,2019,41.7,1022,5
+Whitefish,Erie,2023,21.2,381,2
+Lake Trout,Erie,2015,79.1,1315,4
+Whitefish,Erie,2019,29,1095,9
+Lake Trout,Erie,2020,34.6,553,4
+Yellow Perch,Erie,2019,27.7,559,4
+Lake Trout,Erie,2020,49.2,1808,2
+Lake Trout,Erie,2020,37.1,1986,6
+Whitefish,Erie,2021,25.5,893,2
+Whitefish,Erie,2018,49.9,1034,7
+Walleye,Erie,2022,51.9,1200,3
+Walleye,Erie,2021,39,1074,3
+Yellow Perch,Erie,2023,30,163,5
+Walleye,Erie,2021,72.9,1214,3
+Lake Trout,Erie,2017,45.1,50,2
+Whitefish,Erie,2017,20.9,634,9
+Walleye,Erie,2022,61.2,1253,2
+Walleye,Erie,2019,27.2,1300,2
+Yellow Perch,Erie,2018,81.1,595,8
+Northern Pike,Erie,2022,41.2,771,9
+Yellow Perch,Erie,2020,55.2,703,7
+Lake Trout,Erie,2016,8.8,949,3
+Whitefish,Erie,2018,20.7,987,9
+Yellow Perch,Erie,2018,60,1334,3
+Walleye,Erie,2020,44.8,742,5
+Whitefish,Erie,2020,70.6,1187,9
+Whitefish,Erie,2015,47.3,1254,3
+Walleye,Erie,2022,42.2,1099,7
+Yellow Perch,Erie,2020,65.7,870,1
+Walleye,Erie,2017,55.2,1090,4
+Northern Pike,Erie,2023,37.1,1376,4
+Whitefish,Erie,2016,23.6,1420,7
+Smallmouth Bass,Erie,2022,5,1908,8
+Smallmouth Bass,Erie,2017,33.4,505,1
+Lake Trout,Erie,2019,22.2,780,5
+Walleye,Erie,2020,79,193,7
+Walleye,Erie,2020,30.2,1466,4
+Lake Trout,Erie,2018,29.8,833,4
+Lake Trout,Erie,2017,17.2,1103,4
+Lake Trout,Erie,2018,36,698,6
+Whitefish,Erie,2015,30,837,7
+Northern Pike,Erie,2018,66.1,1612,2
+Walleye,Erie,2015,42.5,1347,5
+Whitefish,Erie,2015,39.9,944,4
+Lake Trout,Erie,2020,38,1384,3
+Walleye,Erie,2019,51.8,1395,7
+Whitefish,Erie,2018,33.2,804,6
+Northern Pike,Erie,2017,50,265,7
+Whitefish,Erie,2015,64.2,550,5
+Northern Pike,Erie,2020,46.9,330,6
+Lake Trout,Erie,2016,36.3,1582,5
